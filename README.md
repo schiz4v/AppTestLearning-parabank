@@ -1,4 +1,4 @@
-## AppTestLearning-parabank
+# AppTestLearning-parabank
 
 ## App Tested
 **ParaBank**  
@@ -36,4 +36,5 @@ Through this process, I learned the importance of:
 - Staying patient and methodical even when application behaviour is confusing or inconsistent
 
 I also learned that testing can be frustrating at times, especially when the system behaves differently across multiple executions. However, this experience reinforced that careful observation, accurate documentation, and willingness to revise findings are what I believe are essential to be an effective application tester.
+
 
