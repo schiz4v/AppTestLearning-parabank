@@ -9,8 +9,8 @@ test('login succeeds with valid credentials', async ({ page }) => {
   await expect(page.locator('input[name="password"]')).toBeVisible();
 
   // 3) Fill credentials (replace with yours)
-  await page.locator('input[name="username"]').fill('JackTim');
-  await page.locator('input[name="password"]').fill('JackTim456');
+  await page.locator('input[name="username"]').fill('YOUR_UESRNAME');
+  await page.locator('input[name="password"]').fill('YOUR_PASSWORD');
 
   // 4) Click Log In
   await page.getByRole('button', { name: /log in/i }).click();
